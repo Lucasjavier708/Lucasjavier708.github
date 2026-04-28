@@ -3,12 +3,9 @@
    Cybersecurity Analyst
    ============================================= */
 
-/* =====================
-   TYPEWRITER — Hero
-   Escribe el nombre letra por letra al cargar
-===================== */
+
 var heroName = document.getElementById('heroName');
-var fullName  = 'Lucas Pizarro'; // <-- Cambiá esto por tu nombre real
+var fullName  = 'Lucas Pizarro'; // 
 var idx = 0;
 
 function type() {
